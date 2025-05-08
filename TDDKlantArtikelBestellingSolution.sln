@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDKlantArtikelBestellingLibrary", "TDDKlantArtikelBestelling\TDDKlantArtikelBestellingLibrary.csproj", "{073DD941-7CBA-C358-D835-F49EE0D3E8FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDKlantArtikelBestellingTest", "TDDKlantArtikelBestellingTest\TDDKlantArtikelBestellingTest.csproj", "{52D69924-B3DA-4CE9-1F4F-38AB83257A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073DD941-7CBA-C358-D835-F49EE0D3E8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073DD941-7CBA-C358-D835-F49EE0D3E8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073DD941-7CBA-C358-D835-F49EE0D3E8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073DD941-7CBA-C358-D835-F49EE0D3E8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D69924-B3DA-4CE9-1F4F-38AB83257A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D69924-B3DA-4CE9-1F4F-38AB83257A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D69924-B3DA-4CE9-1F4F-38AB83257A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D69924-B3DA-4CE9-1F4F-38AB83257A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02552681-DC46-401D-A269-A6B7520277B4}
+	EndGlobalSection
+EndGlobal
